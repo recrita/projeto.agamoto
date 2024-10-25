@@ -31,3 +31,6 @@ Além do objetivo principal que é a entrega de um sistema, também faz parte da
 Se você tem interesse em participar, mas não tem o conhecimento necessário, precisamos de você.<br />
 Se você se importa com o meio ambiente e quer ajudar iniciativas que estejam defendendo o meio ambiente, precisamos de você.<br />
 Se você tem soluções que podem nos ajudar a melhorar nosso projeto, precisamos de você.<br />
+
+Curiosidade: O nome do projeto vem do hinduísmo, onde existe uma entidade chamada Vishnu, que pode ser traduzido para trabalhador e é uma entidade responsável por preservar o universo.
+Fonte: https://pt.wikipedia.org/wiki/Vixnu
