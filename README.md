@@ -1,4 +1,4 @@
-Seja muito bem vindo ao projeto Agamoto.<br />
+Seja muito bem vindo ao projeto Vishnu.<br />
 Esse é um projeto comunitário que busca enfrentar um cenário cada vez mais frequente e cada vez mais presente mundo afora: incêndios florestais.<br />
 Ainda não temos tecnologia para combater incêndios floretais sem intervenção humana, mas podemos ajudar quem está frente a frente no combate ao fogo.<br />
 
