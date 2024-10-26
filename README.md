@@ -34,3 +34,10 @@ Se você tem soluções que podem nos ajudar a melhorar nosso projeto, precisamo
 
 Curiosidade: O nome do projeto vem do hinduísmo, onde existe uma entidade chamada Vishnu, que pode ser traduzido para trabalhador e é uma entidade responsável por preservar o universo.
 Fonte: https://pt.wikipedia.org/wiki/Vixnu
+
+O projeto foi dividido em subprojetos cada um com suas responsabilidades:
+- drone: parte do projeto onde os drones são projetados, utilizando peças já existentes e criando algumas
+- gestor_camera: responsável por monitorar, receber e enviar dados para as câmeras do drone, também é o sistema responsável por processar as imagens e determinar características da vegetação
+- gestor_pdi:  responsável por determinar os pontos de interesse a serem visitados para coleta de dados.
+- gestor_trajetoria: responsável por decolar, pousar e movimentar os drones, também monitora e corrige a trajetória dos drones.
+- interface_usuario: responsável por receber os dados de sensores e cameras e mostrar de maneira intuitiva para o usuário
